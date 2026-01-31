@@ -13,3 +13,4 @@ function requireRole($ruolo) {
         die("Accesso negato");
     }
 }
+
